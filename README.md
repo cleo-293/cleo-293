@@ -1,4 +1,6 @@
-### Hi there 👋
+### WORDPRESS DEVELOPER 
+    I'm a freelance developer from the Kenya who 
+
 
 <!--
 **cleo-293/cleo-293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
